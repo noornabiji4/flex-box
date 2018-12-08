@@ -1,0 +1,19 @@
+body{
+    background-color: black
+}
+.container{
+    border: dashed 2px red;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+ 
+}
+div{
+        background: blue;
+        height: 100px;
+        width: 100px;
+        color: black;
+        line-height: 100px;
+        text-align: center;
+
+    }
